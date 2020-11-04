@@ -22,9 +22,6 @@ public class Player2Controller : MonoBehaviour
     void Update() 
     {
         movimento_laterale();
-        //if (muni == 0) { 
-            
-        //}
     }
 
     void movimento_laterale(){
@@ -47,7 +44,7 @@ public class Player2Controller : MonoBehaviour
         // }
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            sparo();            
+            sparo();        
         }
     }
 
