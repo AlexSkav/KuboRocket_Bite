@@ -14,6 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - .collabignore
+    - Assets/Animation.meta
+    - Assets/Animation/FROM_THE_TOP.meta
+    - Assets/Animation/FROM_THE_TOP/Bullets.anim
+    - Assets/Animation/FROM_THE_TOP/Bullets.anim.meta
     - Assets/Animation/FROM_THE_TOP/Player2.anim
     - Assets/Animation/FROM_THE_TOP/Player2.anim.meta
     - Assets/Animation/FROM_THE_TOP/Player2T.anim
@@ -22,12 +27,323 @@ MonoBehaviour:
     - Assets/Animation/FROM_THE_TOP/Player2_0 1.controller.meta
     - Assets/Animation/FROM_THE_TOP/Player2_0.controller
     - Assets/Animation/FROM_THE_TOP/Player2_0.controller.meta
+    - Assets/Animation/FROM_THE_TOP/Player_0.controller
+    - Assets/Animation/FROM_THE_TOP/Player_0.controller.meta
+    - Assets/Animation/FROM_THE_TOP/bullet_0.controller
+    - Assets/Animation/FROM_THE_TOP/bullet_0.controller.meta
+    - Assets/Animation/FROM_THE_TOP/walk.anim
+    - Assets/Animation/FROM_THE_TOP/walk.anim.meta
+    - Assets/Animation/Ground.anim
+    - Assets/Animation/Ground.anim.meta
+    - Assets/Animation/Ground_0 1.controller
+    - Assets/Animation/Ground_0 1.controller.meta
+    - Assets/Animation/Ground_0.controller
+    - Assets/Animation/Ground_0.controller.meta
+    - Assets/Animation/Player.meta
+    - Assets/Animation/Player/01offWalk.anim
+    - Assets/Animation/Player/01offWalk.anim.meta
+    - Assets/Animation/Player/PlayerAnimator.controller
+    - Assets/Animation/Player/PlayerAnimator.controller.meta
+    - Assets/Animation/Player/WalkingAnimNew.anim
+    - Assets/Animation/Player/WalkingAnimNew.anim.meta
+    - Assets/Animation/Player/jumpOld.anim
+    - Assets/Animation/Player/jumpOld.anim.meta
+    - Assets/Animation/Player/jumpOld2.anim
+    - Assets/Animation/Player/jumpOld2.anim.meta
+    - Assets/Animation/UI.meta
+    - Assets/Animation/UI/cloud.anim
+    - Assets/Animation/UI/cloud.anim.meta
+    - Assets/Animation/UI/clouds.controller
+    - Assets/Animation/UI/clouds.controller.meta
+    - Assets/Animation/UI/gameover.meta
+    - Assets/Animation/UI/gameover/Panel.controller
+    - Assets/Animation/UI/gameover/Panel.controller.meta
+    - Assets/Animation/UI/gameover/StopGroup.controller
+    - Assets/Animation/UI/gameover/StopGroup.controller.meta
+    - Assets/Animation/UI/gameover/gameover.1anim.anim
+    - Assets/Animation/UI/gameover/gameover.1anim.anim.meta
+    - Assets/Animation/UI/gameover/stop.anim
+    - Assets/Animation/UI/gameover/stop.anim.meta
+    - Assets/Animation/UI/parall1.anim
+    - Assets/Animation/UI/parall1.anim.meta
+    - Assets/Animation/UI/parall2.anim
+    - Assets/Animation/UI/parall2.anim.meta
+    - Assets/Animation/UI/parallax.controller
+    - Assets/Animation/UI/parallax.controller.meta
+    - Assets/Animation/UI/parallax2.controller
+    - Assets/Animation/UI/parallax2.controller.meta
+    - Assets/Animation/ground.meta
+    - Assets/Animation/ground/Ground_0 1.controller
+    - Assets/Animation/ground/Ground_0 1.controller.meta
+    - Assets/Animation/ground/Ground_0.controller
+    - Assets/Animation/ground/Ground_0.controller.meta
+    - Assets/Animation/ground/ROMA.anim
+    - Assets/Animation/ground/ROMA.anim.meta
+    - Assets/Animation/ground/defalultred.anim
+    - Assets/Animation/ground/defalultred.anim.meta
+    - Assets/Animation/muroRoma.anim
+    - Assets/Animation/muroRoma.anim.meta
+    - Assets/AnimationScript.cs
+    - Assets/AnimationScript.cs.meta
+    - Assets/Audio.meta
+    - Assets/Audio/WhatsApp Audio 2020-10-12 at 22.25.00.mpeg.meta
+    - Assets/Audio/WhatsApp-Audio-2020-10-12-at-22.25.00.mp3.meta
+    - Assets/Audio/game.mp3.meta
+    - Assets/Audio/intro.mp3.meta
+    - Assets/Font.meta
+    - Assets/Font/Mont-ExtraLightDEMO.otf.meta
+    - Assets/Font/Mont-HeavyDEMO.otf.meta
+    - Assets/Font/Nau Sea.otf.meta
+    - Assets/Image.meta
+    - Assets/Image/COLONNE.psd.meta
+    - Assets/Image/City.meta
+    - Assets/Image/City/Berlino.meta
+    - Assets/Image/City/Berlino/Berlin.psd.meta
+    - Assets/Image/City/CityDefault.meta
+    - Assets/Image/City/CityDefault/EN_red.psd.meta
+    - Assets/Image/City/CityDefault/GR_red.psd.meta
+    - Assets/Image/City/CityDefault/PurpleCity.psd.meta
+    - Assets/Image/City/CityDefault/RedCity.psd.meta
+    - Assets/Image/City/Londra.meta
+    - Assets/Image/City/Londra/London.psd.meta
+    - Assets/Image/City/Londra/ground.psd.meta
+    - Assets/Image/City/NewYork.meta
+    - Assets/Image/City/NewYork/NewYork.psd.meta
+    - Assets/Image/City/NewYork/groundnewyork.psd.meta
+    - Assets/Image/City/Parigi.meta
+    - Assets/Image/City/Parigi/En_paris.psd.meta
+    - Assets/Image/City/Parigi/GR_Paris.psd.meta
+    - Assets/Image/City/Parigi/Paris.psd.meta
+    - Assets/Image/City/ROMA.psd.meta
+    - Assets/Image/City/Roma.meta
+    - Assets/Image/City/Roma/GroundRoma.psd.meta
+    - Assets/Image/City/Roma/ROMA.psd.meta
+    - Assets/Image/City/Roma/Rettangolo.psd.meta
+    - Assets/Image/Environment.meta
+    - Assets/Image/Environment/clouds.psd.meta
+    - Assets/Image/FROM_THE_TOP.meta
+    - Assets/Image/FROM_THE_TOP/Armi.meta
+    - Assets/Image/FROM_THE_TOP/Armi/bullet.psd.meta
+    - Assets/Image/FROM_THE_TOP/Enviroment.meta
+    - Assets/Image/FROM_THE_TOP/Enviroment/Box.psd.meta
+    - Assets/Image/FROM_THE_TOP/Enviroment/Ground1.psd.meta
+    - Assets/Image/FROM_THE_TOP/Enviroment/cloud.psd.meta
+    - Assets/Image/FROM_THE_TOP/Enviroment/sky.psd.meta
+    - Assets/Image/FROM_THE_TOP/Player.meta
+    - Assets/Image/FROM_THE_TOP/Player/Player.psd.meta
+    - Assets/Image/FROM_THE_TOP/Player/flyplayer.psd.meta
+    - Assets/Image/FROM_THE_TOP/enemy.meta
+    - Assets/Image/FROM_THE_TOP/enemy/enemy.psd.meta
+    - Assets/Image/FROM_THE_TOP/enemyRED.psd.meta
+    - Assets/Image/FROM_THE_TOP/rocket.psd.meta
+    - Assets/Image/Player.meta
+    - Assets/Image/Player/Jump_Player.psd.meta
+    - Assets/Image/Player/Jump_Player_0 1.controller
+    - Assets/Image/Player/Jump_Player_0 1.controller.meta
+    - Assets/Image/Player/Jump_Player_0.controller
+    - Assets/Image/Player/Jump_Player_0.controller.meta
+    - Assets/Image/Player/Kubo.psd.meta
+    - Assets/Image/Player/Player2.psd.meta
     - Assets/Image/Player/PlayerNew.controller
+    - Assets/Image/Player/PlayerNew.controller.meta
+    - Assets/Image/Player/Player_1.psd.meta
+    - Assets/Image/SwitchButton.psd.meta
+    - Assets/Image/UI.meta
+    - Assets/Image/UI/Bottoni.psd.meta
+    - Assets/Image/UI/PLAYER&city.psd.meta
+    - Assets/Image/UI/ShopButton.psd.meta
+    - Assets/Image/UI/VOLUME_on_off.psd.meta
+    - Assets/Image/UI/altribottoni.psd.meta
+    - Assets/Image/UI/berlin&default1.psd.meta
+    - Assets/Image/UI/gameover.psd.meta
+    - Assets/Image/UI/mirinoelucchetto.psd.meta
+    - Assets/Image/UI/newyork&london.psd.meta
+    - Assets/Image/UI/parallax.psd.meta
+    - Assets/Image/UI/parallax2.psd.meta
+    - Assets/Image/UI/pause.psd.meta
+    - Assets/Image/UI/resume&menu.psd.meta
+    - Assets/Image/UI/rome&paris.psd.meta
+    - Assets/Image/UI/sky.psd.meta
+    - Assets/Image/UI/title.psd.meta
+    - Assets/Image/coin.psd.meta
+    - Assets/InstagramLink.cs.meta
+    - Assets/NewAnimPlayer.cs
+    - Assets/NewAnimPlayer.cs.meta
+    - Assets/Prefab.meta
+    - Assets/Prefab/Bonus.meta
+    - Assets/Prefab/Bonus/bullet_0.prefab
+    - Assets/Prefab/Bonus/bullet_0.prefab.meta
+    - Assets/Prefab/Enemies.prefab
+    - Assets/Prefab/Enemies.prefab.meta
+    - Assets/Prefab/From_The_Top.meta
     - Assets/Prefab/From_The_Top/Proiettile.prefab
+    - Assets/Prefab/From_The_Top/Proiettile.prefab.meta
+    - Assets/Prefab/coin_0.prefab
+    - Assets/Prefab/coin_0.prefab.meta
+    - Assets/Prefab/enemy.meta
+    - Assets/Prefab/enemy/Colonne.prefab
+    - Assets/Prefab/enemy/Colonne.prefab.meta
+    - Assets/Prefab/enemy/DinamicBox.prefab
+    - Assets/Prefab/enemy/DinamicBox.prefab.meta
+    - Assets/Prefab/enemy/RED.prefab
+    - Assets/Prefab/enemy/RED.prefab.meta
+    - Assets/Prefab/enemy/SpawnerDinamico.prefab
+    - Assets/Prefab/enemy/SpawnerDinamico.prefab.meta
+    - Assets/Prefab/enemy/berlinCOLONNE.prefab
+    - Assets/Prefab/enemy/berlinCOLONNE.prefab.meta
+    - Assets/Prefab/enemy/bigben.prefab
+    - Assets/Prefab/enemy/bigben.prefab.meta
+    - Assets/Prefab/enemy/eiffel.prefab
+    - Assets/Prefab/enemy/eiffel.prefab.meta
+    - Assets/Prefab/enemy/newyotk.prefab
+    - Assets/Prefab/enemy/newyotk.prefab.meta
+    - Assets/Prefab/scene.meta
+    - Assets/Prefab/scene/Berlino.prefab
+    - Assets/Prefab/scene/Berlino.prefab.meta
+    - Assets/Prefab/scene/DEFAULT_1.prefab
+    - Assets/Prefab/scene/DEFAULT_1.prefab.meta
+    - Assets/Prefab/scene/LONDRA_off.prefab
+    - Assets/Prefab/scene/LONDRA_off.prefab.meta
+    - Assets/Prefab/scene/NewYork.prefab
+    - Assets/Prefab/scene/NewYork.prefab.meta
+    - Assets/Prefab/scene/PARIGI.prefab
+    - Assets/Prefab/scene/PARIGI.prefab.meta
+    - Assets/Prefab/scene/ROMA.prefab
+    - Assets/Prefab/scene/ROMA.prefab.meta
+    - Assets/Scenes.meta
     - Assets/Scenes/Game.unity
+    - Assets/Scenes/Scena2.unity
+    - Assets/Scenes/Scena2.unity.meta
+    - Assets/Scenes/shop.unity
+    - Assets/Scenes/shop.unity.meta
+    - Assets/Script.meta
+    - Assets/Script/Bonus.meta
+    - Assets/Script/Bonus/Coins.cs.meta
+    - Assets/Script/Bonus/Counter_Bullets.cs.meta
+    - Assets/Script/Bonus/Raddoppio.cs.meta
+    - Assets/Script/Bonus/SpawnerCoins.cs.meta
+    - Assets/Script/Enemies.meta
+    - Assets/Script/Enemies/EnemyMovement.cs.meta
+    - Assets/Script/Enemies/Rettangolo.cs.meta
+    - Assets/Script/Enemies/Score.cs.meta
+    - Assets/Script/Enemies/ScrollEnemy2.cs.meta
+    - Assets/Script/Enemies/SpawnMulti.cs.meta
+    - Assets/Script/Enemies/Spawner.cs.meta
+    - Assets/Script/Enemies/Spawner2.cs.meta
+    - Assets/Script/From_The_Top.meta
+    - Assets/Script/From_The_Top/Destroy_proiettile.cs.meta
+    - Assets/Script/From_The_Top/Follow.cs.meta
+    - Assets/Script/From_The_Top/proiettile.cs.meta
+    - Assets/Script/Player.meta
+    - Assets/Script/Player/BoomESparo.cs.meta
     - Assets/Script/Player/Player2Controller.cs
+    - Assets/Script/Player/Player2Controller.cs.meta
+    - Assets/Script/Player/PlayerController.cs.meta
+    - Assets/Script/Player/WalkAnimation.cs.meta
+    - Assets/Script/Sfondo.meta
+    - Assets/Script/Sfondo/RepeatingBackground.cs.meta
+    - Assets/Script/Sfondo/RepeatingSfondo2.cs.meta
+    - Assets/Script/Sfondo/ScrollSfondo2.cs.meta
+    - Assets/Script/Sfondo/scrollingObject.cs.meta
+    - Assets/Script/Shop.meta
+    - Assets/Script/Shop/ShopButtonManager.cs
+    - Assets/Script/Shop/ShopButtonManager.cs.meta
+    - Assets/Script/UI.meta
+    - Assets/Script/UI/AudioManager.cs
+    - Assets/Script/UI/AudioManager.cs.meta
+    - Assets/Script/UI/BestScore.cs.meta
+    - Assets/Script/UI/CityManager.cs
+    - Assets/Script/UI/CityManager.cs.meta
+    - Assets/Script/UI/CoinCounter.cs.meta
+    - Assets/Script/UI/CoinDisplayer.cs.meta
+    - Assets/Script/UI/Menu.cs.meta
+    - Assets/Script/UI/Pause.cs.meta
+    - Assets/Script/UI/Play.cs.meta
+    - Assets/Script/UI/Restart.cs.meta
+    - Assets/Script/UI/Resume.cs.meta
+    - Assets/Script/UI/TextScore.cs.meta
+    - Assets/Script/UI/backtoMenu.cs.meta
+    - Assets/Script/UI/shop.cs.meta
+    - Assets/Script/UI/volumeButton.cs
+    - Assets/Script/UI/volumeButton.cs.meta
+    - Assets/Script/scenaSHOP.meta
+    - Assets/Script/scenaSHOP/activateCITYmenu.cs.meta
+    - Assets/TextMesh Pro.meta
+    - Assets/TextMesh Pro/Documentation.meta
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+    - Assets/TextMesh Pro/Fonts.meta
+    - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+    - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+    - Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+    - Assets/TextMesh Pro/Resources.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+    - Assets/TextMesh Pro/Shaders.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMPro.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+    - Assets/TextMesh Pro/Sprites.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VersionControlSettings.asset
     - 
-    m_Values: 00000000000000000000000000
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
