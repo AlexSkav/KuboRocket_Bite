@@ -14,10 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 0ac6898c3a4670826744f3faccec927aa185e9ae
     - .collabignore
     - Assets/Animation.meta
     - Assets/Animation/FROM_THE_TOP.meta
@@ -90,86 +86,144 @@ MonoBehaviour:
     - Assets/AnimationScript.cs
     - Assets/AnimationScript.cs.meta
     - Assets/Audio.meta
+    - Assets/Audio/WhatsApp Audio 2020-10-12 at 22.25.00.mpeg
     - Assets/Audio/WhatsApp Audio 2020-10-12 at 22.25.00.mpeg.meta
+    - Assets/Audio/WhatsApp-Audio-2020-10-12-at-22.25.00.mp3
     - Assets/Audio/WhatsApp-Audio-2020-10-12-at-22.25.00.mp3.meta
+    - Assets/Audio/game.mp3
     - Assets/Audio/game.mp3.meta
+    - Assets/Audio/intro.mp3
     - Assets/Audio/intro.mp3.meta
     - Assets/Font.meta
+    - Assets/Font/Mont-ExtraLightDEMO.otf
     - Assets/Font/Mont-ExtraLightDEMO.otf.meta
+    - Assets/Font/Mont-HeavyDEMO.otf
     - Assets/Font/Mont-HeavyDEMO.otf.meta
+    - Assets/Font/Nau Sea.otf
     - Assets/Font/Nau Sea.otf.meta
     - Assets/Image.meta
+    - Assets/Image/COLONNE.psd
     - Assets/Image/COLONNE.psd.meta
     - Assets/Image/City.meta
     - Assets/Image/City/Berlino.meta
+    - Assets/Image/City/Berlino/Berlin.psd
     - Assets/Image/City/Berlino/Berlin.psd.meta
     - Assets/Image/City/CityDefault.meta
+    - Assets/Image/City/CityDefault/EN_red.psd
     - Assets/Image/City/CityDefault/EN_red.psd.meta
+    - Assets/Image/City/CityDefault/GR_red.psd
     - Assets/Image/City/CityDefault/GR_red.psd.meta
+    - Assets/Image/City/CityDefault/PurpleCity.psd
     - Assets/Image/City/CityDefault/PurpleCity.psd.meta
+    - Assets/Image/City/CityDefault/RedCity.psd
     - Assets/Image/City/CityDefault/RedCity.psd.meta
     - Assets/Image/City/Londra.meta
+    - Assets/Image/City/Londra/London.psd
     - Assets/Image/City/Londra/London.psd.meta
+    - Assets/Image/City/Londra/ground.psd
     - Assets/Image/City/Londra/ground.psd.meta
     - Assets/Image/City/NewYork.meta
+    - Assets/Image/City/NewYork/NewYork.psd
     - Assets/Image/City/NewYork/NewYork.psd.meta
+    - Assets/Image/City/NewYork/groundnewyork.psd
     - Assets/Image/City/NewYork/groundnewyork.psd.meta
     - Assets/Image/City/Parigi.meta
+    - Assets/Image/City/Parigi/En_paris.psd
     - Assets/Image/City/Parigi/En_paris.psd.meta
+    - Assets/Image/City/Parigi/GR_Paris.psd
     - Assets/Image/City/Parigi/GR_Paris.psd.meta
+    - Assets/Image/City/Parigi/Paris.psd
     - Assets/Image/City/Parigi/Paris.psd.meta
+    - Assets/Image/City/ROMA.psd
     - Assets/Image/City/ROMA.psd.meta
     - Assets/Image/City/Roma.meta
+    - Assets/Image/City/Roma/GroundRoma.psd
     - Assets/Image/City/Roma/GroundRoma.psd.meta
+    - Assets/Image/City/Roma/ROMA.psd
     - Assets/Image/City/Roma/ROMA.psd.meta
+    - Assets/Image/City/Roma/Rettangolo.psd
     - Assets/Image/City/Roma/Rettangolo.psd.meta
     - Assets/Image/Environment.meta
+    - Assets/Image/Environment/clouds.psd
     - Assets/Image/Environment/clouds.psd.meta
     - Assets/Image/FROM_THE_TOP.meta
     - Assets/Image/FROM_THE_TOP/Armi.meta
+    - Assets/Image/FROM_THE_TOP/Armi/bullet.psd
     - Assets/Image/FROM_THE_TOP/Armi/bullet.psd.meta
     - Assets/Image/FROM_THE_TOP/Enviroment.meta
+    - Assets/Image/FROM_THE_TOP/Enviroment/Box.psd
     - Assets/Image/FROM_THE_TOP/Enviroment/Box.psd.meta
+    - Assets/Image/FROM_THE_TOP/Enviroment/Ground1.psd
     - Assets/Image/FROM_THE_TOP/Enviroment/Ground1.psd.meta
+    - Assets/Image/FROM_THE_TOP/Enviroment/cloud.psd
     - Assets/Image/FROM_THE_TOP/Enviroment/cloud.psd.meta
+    - Assets/Image/FROM_THE_TOP/Enviroment/sky.psd
     - Assets/Image/FROM_THE_TOP/Enviroment/sky.psd.meta
     - Assets/Image/FROM_THE_TOP/Player.meta
+    - Assets/Image/FROM_THE_TOP/Player/Player.psd
     - Assets/Image/FROM_THE_TOP/Player/Player.psd.meta
+    - Assets/Image/FROM_THE_TOP/Player/flyplayer.psd
     - Assets/Image/FROM_THE_TOP/Player/flyplayer.psd.meta
     - Assets/Image/FROM_THE_TOP/enemy.meta
+    - Assets/Image/FROM_THE_TOP/enemy/enemy.psd
     - Assets/Image/FROM_THE_TOP/enemy/enemy.psd.meta
+    - Assets/Image/FROM_THE_TOP/enemyRED.psd
     - Assets/Image/FROM_THE_TOP/enemyRED.psd.meta
+    - Assets/Image/FROM_THE_TOP/rocket.psd
     - Assets/Image/FROM_THE_TOP/rocket.psd.meta
     - Assets/Image/Player.meta
+    - Assets/Image/Player/Jump_Player.psd
     - Assets/Image/Player/Jump_Player.psd.meta
     - Assets/Image/Player/Jump_Player_0 1.controller
     - Assets/Image/Player/Jump_Player_0 1.controller.meta
     - Assets/Image/Player/Jump_Player_0.controller
     - Assets/Image/Player/Jump_Player_0.controller.meta
+    - Assets/Image/Player/Kubo.psd
     - Assets/Image/Player/Kubo.psd.meta
+    - Assets/Image/Player/Player2.psd
     - Assets/Image/Player/Player2.psd.meta
     - Assets/Image/Player/PlayerNew.controller
     - Assets/Image/Player/PlayerNew.controller.meta
+    - Assets/Image/Player/Player_1.psd
     - Assets/Image/Player/Player_1.psd.meta
+    - Assets/Image/SwitchButton.psd
     - Assets/Image/SwitchButton.psd.meta
     - Assets/Image/UI.meta
+    - Assets/Image/UI/Bottoni.psd
     - Assets/Image/UI/Bottoni.psd.meta
+    - Assets/Image/UI/PLAYER&city.psd
     - Assets/Image/UI/PLAYER&city.psd.meta
+    - Assets/Image/UI/ShopButton.psd
     - Assets/Image/UI/ShopButton.psd.meta
+    - Assets/Image/UI/VOLUME_on_off.psd
     - Assets/Image/UI/VOLUME_on_off.psd.meta
+    - Assets/Image/UI/altribottoni.psd
     - Assets/Image/UI/altribottoni.psd.meta
+    - Assets/Image/UI/berlin&default1.psd
     - Assets/Image/UI/berlin&default1.psd.meta
+    - Assets/Image/UI/gameover.psd
     - Assets/Image/UI/gameover.psd.meta
+    - Assets/Image/UI/mirinoelucchetto.psd
     - Assets/Image/UI/mirinoelucchetto.psd.meta
+    - Assets/Image/UI/newyork&london.psd
     - Assets/Image/UI/newyork&london.psd.meta
+    - Assets/Image/UI/parallax.psd
     - Assets/Image/UI/parallax.psd.meta
+    - Assets/Image/UI/parallax2.psd
     - Assets/Image/UI/parallax2.psd.meta
+    - Assets/Image/UI/pause.psd
     - Assets/Image/UI/pause.psd.meta
+    - Assets/Image/UI/resume&menu.psd
     - Assets/Image/UI/resume&menu.psd.meta
+    - Assets/Image/UI/rome&paris.psd
     - Assets/Image/UI/rome&paris.psd.meta
+    - Assets/Image/UI/sky.psd
     - Assets/Image/UI/sky.psd.meta
+    - Assets/Image/UI/title.psd
     - Assets/Image/UI/title.psd.meta
+    - Assets/Image/coin.psd
     - Assets/Image/coin.psd.meta
+    - Assets/InstagramLink.cs
     - Assets/InstagramLink.cs.meta
     - Assets/NewAnimPlayer.cs
     - Assets/NewAnimPlayer.cs.meta
@@ -216,41 +270,60 @@ MonoBehaviour:
     - Assets/Prefab/scene/ROMA.prefab.meta
     - Assets/Scenes.meta
     - Assets/Scenes/Game.unity
+    - Assets/Scenes/Game.unity.meta
     - Assets/Scenes/Scena2.unity
     - Assets/Scenes/Scena2.unity.meta
     - Assets/Scenes/shop.unity
     - Assets/Scenes/shop.unity.meta
     - Assets/Script.meta
     - Assets/Script/Bonus.meta
+    - Assets/Script/Bonus/Coins.cs
     - Assets/Script/Bonus/Coins.cs.meta
+    - Assets/Script/Bonus/Counter_Bullets.cs
     - Assets/Script/Bonus/Counter_Bullets.cs.meta
+    - Assets/Script/Bonus/Raddoppio.cs
     - Assets/Script/Bonus/Raddoppio.cs.meta
+    - Assets/Script/Bonus/SpawnerCoins.cs
     - Assets/Script/Bonus/SpawnerCoins.cs.meta
     - Assets/Script/Enemies.meta
+    - Assets/Script/Enemies/EnemyMovement.cs
     - Assets/Script/Enemies/EnemyMovement.cs.meta
+    - Assets/Script/Enemies/Rettangolo.cs
     - Assets/Script/Enemies/Rettangolo.cs.meta
+    - Assets/Script/Enemies/Score.cs
     - Assets/Script/Enemies/Score.cs.meta
+    - Assets/Script/Enemies/ScrollEnemy2.cs
     - Assets/Script/Enemies/ScrollEnemy2.cs.meta
+    - Assets/Script/Enemies/SpawnMulti.cs
     - Assets/Script/Enemies/SpawnMulti.cs.meta
+    - Assets/Script/Enemies/Spawner.cs
     - Assets/Script/Enemies/Spawner.cs.meta
+    - Assets/Script/Enemies/Spawner2.cs
     - Assets/Script/Enemies/Spawner2.cs.meta
     - Assets/Script/From_The_Top.meta
+    - Assets/Script/From_The_Top/Destroy_proiettile.cs
     - Assets/Script/From_The_Top/Destroy_proiettile.cs.meta
+    - Assets/Script/From_The_Top/Follow.cs
     - Assets/Script/From_The_Top/Follow.cs.meta
+    - Assets/Script/From_The_Top/proiettile.cs
     - Assets/Script/From_The_Top/proiettile.cs.meta
     - Assets/Script/Player.meta
+    - Assets/Script/Player/BoomESparo.cs
     - Assets/Script/Player/BoomESparo.cs.meta
-<<<<<<< HEAD
     - Assets/Script/Player/Player2Controller.cs
-=======
->>>>>>> 0ac6898c3a4670826744f3faccec927aa185e9ae
     - Assets/Script/Player/Player2Controller.cs.meta
+    - Assets/Script/Player/PlayerController.cs
     - Assets/Script/Player/PlayerController.cs.meta
+    - Assets/Script/Player/WalkAnimation.cs
     - Assets/Script/Player/WalkAnimation.cs.meta
     - Assets/Script/Sfondo.meta
+    - Assets/Script/Sfondo/RepeatingBackground.cs
     - Assets/Script/Sfondo/RepeatingBackground.cs.meta
+    - Assets/Script/Sfondo/RepeatingSfondo2.cs
     - Assets/Script/Sfondo/RepeatingSfondo2.cs.meta
+    - Assets/Script/Sfondo/ScrollSfondo2.cs
     - Assets/Script/Sfondo/ScrollSfondo2.cs.meta
+    - Assets/Script/Sfondo/scrollingObject.cs
     - Assets/Script/Sfondo/scrollingObject.cs.meta
     - Assets/Script/Shop.meta
     - Assets/Script/Shop/ShopButtonManager.cs
@@ -258,29 +331,43 @@ MonoBehaviour:
     - Assets/Script/UI.meta
     - Assets/Script/UI/AudioManager.cs
     - Assets/Script/UI/AudioManager.cs.meta
+    - Assets/Script/UI/BestScore.cs
     - Assets/Script/UI/BestScore.cs.meta
     - Assets/Script/UI/CityManager.cs
     - Assets/Script/UI/CityManager.cs.meta
+    - Assets/Script/UI/CoinCounter.cs
     - Assets/Script/UI/CoinCounter.cs.meta
+    - Assets/Script/UI/CoinDisplayer.cs
     - Assets/Script/UI/CoinDisplayer.cs.meta
+    - Assets/Script/UI/Menu.cs
     - Assets/Script/UI/Menu.cs.meta
+    - Assets/Script/UI/Pause.cs
     - Assets/Script/UI/Pause.cs.meta
+    - Assets/Script/UI/Play.cs
     - Assets/Script/UI/Play.cs.meta
+    - Assets/Script/UI/Restart.cs
     - Assets/Script/UI/Restart.cs.meta
+    - Assets/Script/UI/Resume.cs
     - Assets/Script/UI/Resume.cs.meta
+    - Assets/Script/UI/TextScore.cs
     - Assets/Script/UI/TextScore.cs.meta
+    - Assets/Script/UI/backtoMenu.cs
     - Assets/Script/UI/backtoMenu.cs.meta
+    - Assets/Script/UI/shop.cs
     - Assets/Script/UI/shop.cs.meta
     - Assets/Script/UI/volumeButton.cs
     - Assets/Script/UI/volumeButton.cs.meta
     - Assets/Script/scenaSHOP.meta
+    - Assets/Script/scenaSHOP/activateCITYmenu.cs
     - Assets/Script/scenaSHOP/activateCITYmenu.cs.meta
     - Assets/TextMesh Pro.meta
     - Assets/TextMesh Pro/Documentation.meta
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
     - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
     - Assets/TextMesh Pro/Fonts.meta
     - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
     - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+    - Assets/TextMesh Pro/Fonts/LiberationSans.ttf
     - Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
     - Assets/TextMesh Pro/Resources.meta
     - Assets/TextMesh Pro/Resources/Fonts & Materials.meta
@@ -292,7 +379,9 @@ MonoBehaviour:
     - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
     - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
     - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
     - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
     - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
     - Assets/TextMesh Pro/Resources/Sprite Assets.meta
     - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
@@ -338,28 +427,34 @@ MonoBehaviour:
     - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
     - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
     - Assets/TextMesh Pro/Sprites.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
     - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json
     - Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png
     - Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
     - Packages/manifest.json
     - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
     - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
     - ProjectSettings/ProjectSettings.asset
     - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
     - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
     - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
     - ProjectSettings/VersionControlSettings.asset
     - 
-<<<<<<< HEAD
-    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-=======
-    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-=======
-    - Assets/Scenes/Scena2.unity
-    - 
-    m_Values: 0101
->>>>>>> 4225fa4ac903501201ab982cbc4a358ff9ce4838
->>>>>>> 0ac6898c3a4670826744f3faccec927aa185e9ae
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

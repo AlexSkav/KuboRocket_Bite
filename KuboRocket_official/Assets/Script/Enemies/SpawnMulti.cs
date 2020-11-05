@@ -6,8 +6,10 @@ public class SpawnMulti : MonoBehaviour
 {
     public float maxTime = 1;
     private float timer = 0;
-    public GameObject rettangolo1;//spawn nemici fermi
-    public GameObject rettangolo2;//spawn nemici in movimento
+    public GameObject nemico1;//spawn nemici
+    public GameObject nemico2;//spawn nemici
+    public GameObject nemico3;//spawn nemici
+    public GameObject nemico4;//spawn nemici
     public GameObject rettangolo3;//Spawn munizioni per terra
     public float massimo;
     public float minimo;
@@ -26,46 +28,52 @@ public class SpawnMulti : MonoBehaviour
             //spawn nemici e munizioni totalmente casuale
             switch (Random.Range(1,8)){
                 case 1:
-                    GameObject newrettangolo1 = Instantiate(rettangolo1);//fermi
-                    newrettangolo1.transform.position = transform.position + new Vector3(Random.Range(minimo, massimo), 0, 0);
+                    GameObject newnemico1 = Instantiate(nemico1);
+                    newnemico1.transform.position = transform.position + new Vector3(Random.Range(minimo, massimo), -1, 0);
                     timer = 0;
-                    Destroy(newrettangolo1, 8f); 
+                    Destroy(newnemico1, 8f);
                     break;
                 case 2:
                     GameObject newrettangolo2 = Instantiate(rettangolo3);//munizioni
-                    newrettangolo2.transform.position = transform.position + new Vector3(Random.Range(minimo, massimo), 0, 0);
+                    newrettangolo2.transform.position = transform.position + new Vector3(Random.Range(minimo, massimo), -1, 0);
                     timer = 0;
                     Destroy(newrettangolo2, 8f);
                     break;
                 case 3:
-                    GameObject newrettangolo3 = Instantiate(rettangolo2);//in movimento
-                    newrettangolo3.transform.position = transform.position + new Vector3(Random.Range(minimo, massimo), 0, 0);
+                    GameObject newnemico2 = Instantiate(nemico2);
+                    newnemico2.transform.position = transform.position + new Vector3(Random.Range(minimo, massimo), -1, 0);
                     timer = 0;
-                    Destroy(newrettangolo3, 8f);
+                    Destroy(newnemico2, 8f);
                     break;
                 case 4:
-                    GameObject newrettangolo4 = Instantiate(rettangolo2);//in movimento
-                    newrettangolo4.transform.position = transform.position + new Vector3(Random.Range(minimo, massimo), 0, 0);
+                    GameObject newnemico3 = Instantiate(nemico3);
+                    newnemico3.transform.position = transform.position + new Vector3(Random.Range(minimo, massimo), -1, 0);
                     timer = 0;
-                    Destroy(newrettangolo4, 8f);
+                    Destroy(newnemico3, 8f);
                     break;
                 case 5:
-                    GameObject newrettangolo5 = Instantiate(rettangolo1);//fermi
-                    newrettangolo5.transform.position = transform.position + new Vector3(Random.Range(minimo, massimo), 0, 0);
+                    GameObject newnemico4 = Instantiate(nemico4);
+                    newnemico4.transform.position = transform.position + new Vector3(Random.Range(minimo, massimo), -1, 0);
                     timer = 0;
-                    Destroy(newrettangolo5, 8f); 
+                    Destroy(newnemico4, 8f); 
                     break;
                 case 6:
-                    GameObject newrettangolo6 = Instantiate(rettangolo1);//fermi
-                    newrettangolo6.transform.position = transform.position + new Vector3(Random.Range(minimo, massimo), 0, 0);
+                    GameObject newnemico5 = Instantiate(nemico1);
+                    newnemico5.transform.position = transform.position + new Vector3(Random.Range(minimo, massimo), -1, 0);
                     timer = 0;
-                    Destroy(newrettangolo6, 8f); 
+                    Destroy(newnemico5, 8f); 
                     break;
                 case 7:
-                    GameObject newrettangolo7 = Instantiate(rettangolo2);//in movimento
-                    newrettangolo7.transform.position = transform.position + new Vector3(Random.Range(minimo, massimo), 0, 0);
+                    GameObject newnemico6 = Instantiate(nemico4);
+                    newnemico6.transform.position = transform.position + new Vector3(Random.Range(minimo, massimo), -1, 0);
                     timer = 0;
-                    Destroy(newrettangolo7, 8f);
+                    Destroy(newnemico6, 8f);
+                    break;
+                case 8:
+                    GameObject newnemico7 = Instantiate(nemico3);
+                    newnemico7.transform.position = transform.position + new Vector3(Random.Range(minimo, massimo), -1, 0);
+                    timer = 0;
+                    Destroy(newnemico7, 8f);
                     break;
             }
         }
