@@ -75,7 +75,7 @@ public class Player2Controller : MonoBehaviour
         {
             muni--;
             GameObject newproiettile = Instantiate(proiettile);
-            newproiettile.transform.position =transform.position;
+            newproiettile.transform.position = transform.position;
         }
     }
 }

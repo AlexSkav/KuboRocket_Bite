@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemyMovement : MonoBehaviour
 {
-    public float speed = 5f;
+    public float speed = 2f;
     private bool touched = true;
     //false = destra, true = sinistra
     // Start is called before the first frame update
